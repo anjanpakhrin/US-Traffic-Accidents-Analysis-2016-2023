@@ -34,3 +34,12 @@ A comprehensive exploratory analysis of 7.8 million traffic accident records acr
 
 **Note:** Alaska and Hawaii are excluded due to limited data availability from regional transportation authorities.
 *For detailed dataset documentation and usage terms, refer to the official Kaggle dataset page.*
+
+# 🛠️ Tool
+* Python/Jupyter
+* Excel
+* Tableau
+
+# 📊 Visualizations
+* Tableau Dashboard (coming soon..)
+* Final Presentation (coming soon..)
