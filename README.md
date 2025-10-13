@@ -21,7 +21,7 @@ A comprehensive exploratory analysis of 7.8 million traffic accident records acr
 * **Source URL:** https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 ## Data Coverage
-* **Time Period:** February 2016 - March 2023
+* **Time Period:** February 2016 - March 2023 (2023 excluded from analysis due to incomplete data)
 * **Geographic Scope:** 49 US jurisdictions (48 continental states + Washington D.C.)
 * **Records:** Approximately 7.8 million accident reports
 
@@ -42,4 +42,4 @@ A comprehensive exploratory analysis of 7.8 million traffic accident records acr
 
 ## 📊 Visualizations
 * [Tableau Dashboard](https://public.tableau.com/shared/3NZ3QZ3XG?:display_count=n&:origin=viz_share_link)
-* Final Presentation (coming soon..)
+* [Final Presentation](https://github.com/anjanpakhrin/US-Traffic-Accidents-Analysis-2016-2022/blob/main/05%20Sent%20to%20Client/Data_Analyst_Portfolio_Final.pdf))
