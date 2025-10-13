@@ -41,5 +41,5 @@ A comprehensive exploratory analysis of 7.8 million traffic accident records acr
 * Tableau
 
 ## 📊 Visualizations
-* [Tableau Dashboard](https://public.tableau.com/shared/Y23FM9233?:display_count=n&:origin=viz_share_link)
+* [Tableau Dashboard](https://public.tableau.com/shared/3NZ3QZ3XG?:display_count=n&:origin=viz_share_link)
 * Final Presentation (coming soon..)
