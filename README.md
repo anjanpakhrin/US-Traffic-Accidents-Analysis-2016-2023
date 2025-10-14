@@ -42,4 +42,4 @@ A comprehensive exploratory analysis of 7.8 million traffic accident records acr
 
 ## 📊 Visualizations
 * [Tableau Dashboard](https://public.tableau.com/shared/3NZ3QZ3XG?:display_count=n&:origin=viz_share_link)
-* [Final Presentation](https://github.com/anjanpakhrin/US-Traffic-Accidents-Analysis-2016-2022/blob/main/05%20Sent%20to%20Client/Data_Analyst_Portfolio_Final.pdf))
+* [Final Presentation](https://github.com/anjanpakhrin/US-Traffic-Accidents-Analysis-2016-2022/blob/main/05%20Sent%20to%20Client/Data_Analyst_Portfolio_Final.pdf)
